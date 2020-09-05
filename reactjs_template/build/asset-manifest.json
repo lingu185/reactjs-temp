@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/easydev/static/css/main.cd0b007b.chunk.css",
+    "main.js": "/easydev/static/js/main.84c7e681.chunk.js",
+    "main.js.map": "/easydev/static/js/main.84c7e681.chunk.js.map",
+    "runtime-main.js": "/easydev/static/js/runtime-main.5b516592.js",
+    "runtime-main.js.map": "/easydev/static/js/runtime-main.5b516592.js.map",
+    "xlsx.js": "/easydev/static/js/xlsx.268506f3.chunk.js",
+    "xlsx.js.map": "/easydev/static/js/xlsx.268506f3.chunk.js.map",
+    "static/css/3.15fb29a5.chunk.css": "/easydev/static/css/3.15fb29a5.chunk.css",
+    "static/js/3.66785406.chunk.js": "/easydev/static/js/3.66785406.chunk.js",
+    "static/js/3.66785406.chunk.js.map": "/easydev/static/js/3.66785406.chunk.js.map",
+    "static/js/4.87ac0df4.chunk.js": "/easydev/static/js/4.87ac0df4.chunk.js",
+    "static/js/4.87ac0df4.chunk.js.map": "/easydev/static/js/4.87ac0df4.chunk.js.map",
+    "static/js/5.67eaf002.chunk.js": "/easydev/static/js/5.67eaf002.chunk.js",
+    "static/js/5.67eaf002.chunk.js.map": "/easydev/static/js/5.67eaf002.chunk.js.map",
+    "static/js/6.923807f4.chunk.js": "/easydev/static/js/6.923807f4.chunk.js",
+    "static/js/6.923807f4.chunk.js.map": "/easydev/static/js/6.923807f4.chunk.js.map",
+    "index.html": "/easydev/index.html",
+    "precache-manifest.00854f7ffe79fe4b4671bd8ac63d47cb.js": "/easydev/precache-manifest.00854f7ffe79fe4b4671bd8ac63d47cb.js",
+    "service-worker.js": "/easydev/service-worker.js",
+    "static/css/3.15fb29a5.chunk.css.map": "/easydev/static/css/3.15fb29a5.chunk.css.map",
+    "static/css/main.cd0b007b.chunk.css.map": "/easydev/static/css/main.cd0b007b.chunk.css.map",
+    "static/js/3.66785406.chunk.js.LICENSE.txt": "/easydev/static/js/3.66785406.chunk.js.LICENSE.txt",
+    "static/js/5.67eaf002.chunk.js.LICENSE.txt": "/easydev/static/js/5.67eaf002.chunk.js.LICENSE.txt",
+    "static/js/6.923807f4.chunk.js.LICENSE.txt": "/easydev/static/js/6.923807f4.chunk.js.LICENSE.txt",
+    "static/media/404.png": "/easydev/static/media/404.537dd20a.png",
+    "static/media/app.scss": "/easydev/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b516592.js",
+    "static/css/3.15fb29a5.chunk.css",
+    "static/js/3.66785406.chunk.js",
+    "static/css/main.cd0b007b.chunk.css",
+    "static/js/main.84c7e681.chunk.js"
+  ]
+}

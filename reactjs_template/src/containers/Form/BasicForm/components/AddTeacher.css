@@ -1,0 +1,11 @@
+.seperate_class .form__form-group {
+    display: contents !important;
+}
+.seperate_class .form__form-group-field{
+    padding-bottom: 20px;
+    width: 20% !important;
+}
+.seperate_class .form__form-group-label{
+    padding-top: 7px;
+    margin: 0 !important;
+}

@@ -1,0 +1,49 @@
+.formRadio{width: auto !important;float: left;}
+.form__form-group {
+    margin-bottom: 20px;
+    width: auto;
+    float: left;
+    position: relative;
+}
+form.form.form--horizontal .col-md-3 {
+    padding: 0px 0px 0px 7px;
+}
+.form__form-group.inputTop1 .form__form-group-label{
+width: 40%;
+}
+.form__form-group.inputTop1 .form__form-group-field {width: 60%;}
+.form__form-group.inputTop1 .form__form-group-field {
+    /* padding-right: 10px !important; */
+    padding: 0px !important;
+    padding-right: 10px !important;
+}
+.form__form-group.inputTop2 .form__form-group-field {
+    padding-left: 0px;
+}
+.row2.row .col-md-7{padding: 0;}
+.row2.row .form__form-group-field {
+    padding-left: 13px;
+}
+.row2.row .form__form-group-label {
+    width: 20%;
+}
+.form__form-group.inputTop2 .form__form-group-field{display: inline-block;}
+.form__form-group.inputTop2 .form__form-group-field {width: 80%;padding-left: 13px !important;}
+.form__form-group.inputTop2 .form__form-group-input-wrap{width:40%;display: inline-block;}
+span.form__form-group-label {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.form.form--horizontal .form__form-group-label{margin: 0 !important;}
+.row2 .col-md-4{padding: 0px;}
+.form_down {
+    display: contents !important;
+}
+.scroll_overflow{
+    overflow: hidden;
+}
+.row2.row .form__form-group-input-wrap:nth-child(2){padding-left: 20px !important;}
+.paddLeft{padding-left: 20px;}
+.radio-btn__label{
+    margin-top: 0px !important;
+}
